@@ -80,3 +80,4 @@ Built to simplify score tracking for gully and local cricket matches where tradi
 ## 👨‍💻 Author
 
 Abrar Ahmed
+[LinkedIn](https://www.linkedin.com/in/abrar-ahmed-mca/)
